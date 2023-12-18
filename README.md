@@ -16,4 +16,5 @@ For this project, I used Python
 
 
 [Data](https://data.buenosaires.gob.ar/dataset/bicicletas-publicas) 
+
 The current notebook was performed on 10% of the original dataset, shortening overall runtime, subsampling using `df.sample(frac=0.1, replace=False, random_state=1)`
