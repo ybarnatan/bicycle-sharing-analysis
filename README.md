@@ -12,6 +12,7 @@ Perform exploratory analysis on the dataset, both numeric and cartographic, in o
 For this project, I used Python
 
 📚 Data Source
-The current notebook was performed on 10% of the original dataset, shortening overall runtime, subsampling by `df.sample(frac=0.1, replace=False, random_state=1)`
+
+The current notebook was performed on 10% of the original dataset, shortening overall runtime, subsampling using `df.sample(frac=0.1, replace=False, random_state=1)`
 
 [Data](https://data.buenosaires.gob.ar/dataset/bicicletas-publicas) 
